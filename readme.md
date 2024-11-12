@@ -81,4 +81,3 @@ print("Carga do sistema (máxima carga entre os servidores):", carga_sistema)
 
 ### 👨‍🏫 Professor
 - Gabriel Sobral
-```
