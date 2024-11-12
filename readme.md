@@ -1,6 +1,3 @@
-Aqui está o README.md estilizado com emojis para se tornar mais visualmente atraente e apresentável no GitHub:
-
-```markdown
 # ⚙️ Otimização da Alocação de Processos em Servidores
 
 ## 📘 Descrição do Projeto
@@ -47,7 +44,7 @@ O código principal está implementado em Python no arquivo `main.py`, contendo 
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/miguelmpp/GS1_Dynamic
    ```
 2. Acesse o diretório do projeto:
    ```bash
