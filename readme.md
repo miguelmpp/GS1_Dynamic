@@ -1,5 +1,12 @@
 # ⚙️ Otimização da Alocação de Processos em Servidores
 
+## 👥 Integrantes do Projeto
+- **Matheus Farias de Lima** - RM554254
+- **Miguel Mauricio Parrado Patarroyo** - RM554007
+
+### 👨‍🏫 Professor
+- Gabriel Sobral
+
 ## 📘 Descrição do Projeto
 Este projeto foi desenvolvido como parte do trabalho de Engenharia de Software para otimizar a alocação de processos em múltiplos servidores, minimizando a carga total do sistema. O objetivo é ajudar uma empresa fictícia a reduzir o consumo de energia, distribuindo processos entre servidores de forma eficiente. A carga do sistema é definida pela maior carga entre todos os servidores.
 
@@ -74,10 +81,3 @@ print("Alocação de processos nos servidores:", servidores)
 print("Carga de cada servidor:", carga_servidores)
 print("Carga do sistema (máxima carga entre os servidores):", carga_sistema)
 ```
-
-## 👥 Integrantes do Projeto
-- **Matheus Farias de Lima** - RM554254
-- **Miguel Mauricio Parrado Patarroyo** - RM554007
-
-### 👨‍🏫 Professor
-- Gabriel Sobral
